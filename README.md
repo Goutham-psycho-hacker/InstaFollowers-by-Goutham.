@@ -25,9 +25,9 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 
 git clone https://github.com/Goutham-psycho-hacker/InstaFollowers-by-Goutham.
 
-cd inshackle-bot
+cd InstaFollowers-by-Goutham.
 
-bash inshackle.sh
+bash InstaFollowers-by-Goutham..sh
 
 ```
 
